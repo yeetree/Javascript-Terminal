@@ -15,5 +15,3 @@ USAGE ```block_pde('message')``` or ```pde('message')```
 
 - Example.js Update
 I revamped the Example.js to be a function-filled terminal. Not really a feature, but I worked on it alot.
-
-Demo: https://yeetree.github.io/Javascript-Terminal/
